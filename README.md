@@ -1,0 +1,2 @@
+# squick-doc
+doc
